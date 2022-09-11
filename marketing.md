@@ -2,6 +2,8 @@
 
 The marketing for the Mutant NFT project has been initiated before the first minting of the collection. Currently, the project has a presence on Twitter, Telegram, and Reddit. The current social media strategy is to drive Twitter and Reddit followers to the Telegram group.&#x20;
 
+
+
 From there, interested parties can be whitelisted for the minting.
 
 

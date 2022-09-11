@@ -6,11 +6,15 @@ From the very beginning, the Mutant NFT project is designed to provide passive i
 
 When the MUT tokens have been deposited into the owner’s wallet, MUT tokens can be held or immediately transferred into other currencies. They can also be sold on exchanges.
 
+
+
 ### Collaboration With Other Projects&#x20;
 
 The Mutant project doesn’t want to exist in a bubble. As part of our plan to make the Mutant brand among the most recognizable in the NFT world, we will be seeking out collaboration with other projects, influencers, and brands. As of this time, the project’s team leaders are looking for the best fit for future collaborations. Our mission is to help maximize the brand’s value over the long term.
 
 NFT owners are invited to recommend or offer collaboration opportunities. We seek to create a vibrant and open community where we can all work together to boost brand exposure.&#x20;
+
+
 
 ### Possible NFT Appreciation&#x20;
 
