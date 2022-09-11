@@ -20,7 +20,9 @@ We expect the Mutant project to have a vibrant community of owners who will help
 
 ### Second Quarter 2023
 
-We will continue to support the price of the MUT token and the Mutant NFT project through various social media promotions. At this time, we will be looking at various proposals from our Mutant community and deciding which ideas should be explored.&#x20;
+We will continue to support the price of the MUT token and the Mutant NFT project through various social media promotions.&#x20;
+
+At this time, we will be looking at various proposals from our Mutant community and deciding which ideas should be explored.&#x20;
 
 It is our mission to help make the Mutant brand one of the more notable projects in 2023.
 
