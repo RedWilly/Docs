@@ -43,5 +43,7 @@ Some of these art pieces feature rare attributes which will likely carry a highe
 To ensure the integrity of the minting process, all Mutant NFTs will be distributed completely at random. Therefore, anyone who pays the 70 wDOGE NFT plus the gas fee will have an equal opportunity to own a rare Mutant.&#x20;
 
 {% hint style="info" %}
+Mutants NFT was born from the ashes of SmartBCH but you know as years passed we evolved.
 
+Cackles = Mutants ( Evolved )
 {% endhint %}
