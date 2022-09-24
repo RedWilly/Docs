@@ -4,7 +4,7 @@
 
 Mutant NFTs are unique 2D illustrations that have their own special colors, patterns, facial features, and accessories. During the first minting, there will be 8,888 NFTs available.&#x20;
 
-Mutant NFTs will be available for minting on the official Mutants website (Mutant.one) on September 30, 2022. The mint price is 70 wDOGE plus gas fees. Later on, Mutant NFTs will be available on secondary markets.
+Mutant NFTs will be available for minting on the official Mutants website (Mutant.one) on September 25, 2022. The mint price is 70 wDOGE plus gas fees. Later on, Mutant NFTs will be available on secondary markets.
 
 While all Mutant NFTs are unique some of the NFTs will have qualities that are rarer than others. However, all Mutant NFT holders will have the ability to provide their input into the project.&#x20;
 

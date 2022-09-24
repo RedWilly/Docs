@@ -2,7 +2,9 @@
 
 The Mutant NFT project will consist of 8,888 randomly generated completely unique 2-D NFTs. The mint date of the project is on September 30, 2022, at a mint price of 70 DOGE plus gas fee.&#x20;
 
-The project is designed to provide passive income opportunities for holders of the Mutant NFTs. Mutants will have varying levels of rarity which may factor into their value and their possible income earning opportunities.
+{% hint style="info" %}
+The Minting date for this coin has been scheduled to September 30th 2022 instead of the original date-September 25th.
+{% endhint %}
 
 The project is designed to provide passive income opportunities for holders of the Mutant NFTs. Mutants will have varying levels of rarity which may factor into their value and their possible income earning opportunities.
 
