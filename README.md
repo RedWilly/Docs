@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Disclaimer
 
 {% hint style="info" %}
