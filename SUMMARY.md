@@ -10,5 +10,5 @@
 * [NFT Market Overview](nft-market-overview.md)
 * [Associated Challenges and Risks](associated-challenges-and-risks.md)
 * [Marketing](marketing.md)
-* [Frequently Asked Question](frequently-asked-question.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
 * [Official Links](official-links.md)
