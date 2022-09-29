@@ -26,6 +26,14 @@ Additionally, the Mutant NFT project will be buying back MUT tokens from exchang
 
 Mutant NFT owners will be able to stake their NFTs and earn MUT tokens. In a later section, we will go into more detail about this passive income earning opportunity.
 
+{% hint style="info" %}
+The MUT token is a utility token designed to empower Mutant NFTs and allow for stable growth for Mutants on Dogechain.
+{% endhint %}
+
+{% hint style="info" %}
+The MUT token is designed to work with Mutant NFTs and provide a variety of utility opportunities to earn. With this, the market will see additional use cases, and the Mutant NFT market will have an incentive to grow
+{% endhint %}
+
 ### **Blockchain**
 
 The Mutant NFT project is built on the Dogecoin blockchain. Although this chain is still young ...
